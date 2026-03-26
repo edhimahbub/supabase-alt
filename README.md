@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Supabase Alternative Demo
 
 ## What it does
@@ -29,3 +30,6 @@ http://173.214.162.237:3001/api
 ## Commands
 - pm2 restart supabase-alt
 - pm2 logs supabase-alt
+=======
+# supabase-alt
+>>>>>>> ff9dbc05cb4fc6ebb6507c80dc3988342565c221
